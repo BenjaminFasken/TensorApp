@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Mar 05 17:32:20 CET 2018
+1.base=C\:\\Users\\Benjamin\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=labels.txt
+0.set=ASSET
+0.base=C\:\\Users\\Benjamin\\tensorflow-for-poets-2\\android\\tfmobile\\gradleBuild\\intermediates\\assets\\debug
+1.path=graph.pb
